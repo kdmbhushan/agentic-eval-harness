@@ -1,0 +1,9 @@
+<Solution>
+  <Folder Name="/src/">
+    <Project Path="src/AgenticEval.Core/AgenticEval.Core.csproj" />
+    <Project Path="src/AgenticEval.Runner/AgenticEval.Runner.csproj" />
+  </Folder>
+  <Folder Name="/tests/">
+    <Project Path="tests/AgenticEval.Tests/AgenticEval.Tests.csproj" />
+  </Folder>
+</Solution>
